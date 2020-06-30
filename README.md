@@ -1,0 +1,1 @@
+This is my custom video player by vanilla Javascript.
